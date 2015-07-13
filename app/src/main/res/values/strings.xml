@@ -2,5 +2,6 @@
     <string name="app_name">CoolCardScanner</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="jiyoon_signature">Hello world! from June Seo</string>
     <string name="action_settings">Settings</string>
 </resources>
